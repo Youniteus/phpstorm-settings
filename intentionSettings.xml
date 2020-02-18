@@ -1,0 +1,25 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="CSS/Convert color to gray" />
+    <ignoreAction name="EditorConfig/Add declaration part" />
+    <ignoreAction name="EditorConfig/Invert" />
+    <ignoreAction name="Flow JS/Specify variable type explicitly" />
+    <ignoreAction name="HTML/Convert entity" />
+    <ignoreAction name="HTML/Update background-image size" />
+    <ignoreAction name="PHP/Add @property" />
+    <ignoreAction name="PHP/Add PHPDoc comment" />
+    <ignoreAction name="PHP/Add fluent setter" />
+    <ignoreAction name="PHP/Add getter" />
+    <ignoreAction name="PHP/Add getter and setter" />
+    <ignoreAction name="PHP/Add setter" />
+    <ignoreAction name="PHP/Generate PHPDoc for function" />
+    <ignoreAction name="PHP/Group use statements by selected prefix" />
+    <ignoreAction name="PHP/Make 'private'" />
+    <ignoreAction name="PHP/Make 'protected'" />
+    <ignoreAction name="PHP/Make 'public'" />
+    <ignoreAction name="React/Convert to class component" />
+    <ignoreAction name="React/Convert to functional component" />
+    <ignoreAction name="Shell Script/Explain shell" />
+    <ignoreAction name="Shell Script/Rename all occurrences" />
+  </component>
+</application>
